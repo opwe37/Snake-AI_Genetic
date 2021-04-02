@@ -51,7 +51,7 @@ Fitness의 경우, 대략적으로 다음과 같은 규칙을 통해 계산되�
 ## Result
 ![](https://github.com/opwe37/Snake-AI_Genetic/blob/main/image/result.png)
 
-위의 그래프는 유전 알고리즘을 통한 여러번의 트레이닝 중 마지막 시도에서 각 세대의 뱀이 최고 많이 먹은 먹이에 대한 그래프이다. 우상향을 그리고 있으며, 29세대에서 95개의 먹이를 먹은 것이 최고점이다.
+위의 그래프는 유전 알고리즘을 통한 여러번의 트레이닝 중 마지막 시도에서 얻은 데이터로, 각 세대의 뱀이 최고 많이 먹은 먹이에 대한 그래프이다. 우상향을 그리고 있으며, 29세대에서 95개의 먹이를 먹은 것이 최고점이다.
 
 ## Reference
 https://github.com/kairess/genetic_snake
